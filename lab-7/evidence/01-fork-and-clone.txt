@@ -1,0 +1,12 @@
+Lab 7 - Task 1: Fork and Clone
+
+Parent Repository:
+https://github.com/cit-iti/my-town
+
+Fork Repository:
+https://github.com/mahroush/my-town
+
+Local Clone:
+C:\Users\mahro\OneDrive\Documents\GitHub\my-town
+
+The parent repository was forked to my GitHub account, and my fork was cloned locally using GitHub Desktop.
