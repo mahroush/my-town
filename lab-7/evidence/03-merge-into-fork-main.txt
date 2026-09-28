@@ -1,0 +1,15 @@
+Lab 7 - Task 3: Merge into Fork Main
+
+Target Branch:
+main
+
+Source Branch:
+my-city
+
+Merge Result:
+The my-city feature branch was successfully merged into main using GitHub Desktop.
+
+The merged main branch was pushed to my GitHub fork.
+
+Final Result:
+The city files are present on the main branch of my fork.

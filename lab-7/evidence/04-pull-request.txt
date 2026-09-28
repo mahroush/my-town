@@ -1,0 +1,27 @@
+Lab 7 - Task 4: Pull Request
+
+Pull Request URL:
+PASTE-YOUR-PULL-REQUEST-URL-HERE
+
+Pull Request Title:
+Add Dhaka and Flint city facts
+
+Base Repository:
+cit-iti/my-town
+
+Base Branch:
+main
+
+Compare Repository:
+mahroush/my-town
+
+Compare Branch:
+main
+
+Changed Files:
+dhaka.txt
+Flint city facts file
+Lab 7 evidence files and screenshots
+
+Review Summary:
+This pull request adds city information for Dhaka, Bangladesh and Flint, Michigan. The work was completed on the my-city feature branch and merged into the main branch of my fork before opening the pull request. The maintainer should review the city facts, source information, file locations, and overall repository structure.
